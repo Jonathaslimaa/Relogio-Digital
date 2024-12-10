@@ -1,5 +1,5 @@
 
-# Relogio Digital
+# Relogio Digital 🧭
 
 Um relogio simples, mas funcional que envolve o velho amigo Html5, css e Javascript.
 
